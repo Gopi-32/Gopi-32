@@ -15,7 +15,7 @@
 - 👋 Hi, I’m @Gopi-32
 -:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 I’m currently learning Java, Spring Boot, Python.
-- 📫 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gopi-s3238)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gopi-s3238)
 
 <!---
 Gopi-32/Gopi-32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
