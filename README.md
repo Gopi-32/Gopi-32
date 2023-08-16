@@ -8,6 +8,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 - 👋 Hi, I’m @Gopi-32
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java, Spring Boot, Python.
