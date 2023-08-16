@@ -13,7 +13,7 @@
 </div>
 
 - 👋 Hi, I’m @Gopi-32
-- 👀 I’m interested in Software Development
+:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 I’m currently learning Java, Spring Boot, Python.
 - 📫 How to reach me gopisrikanth96@gmail.com
 
